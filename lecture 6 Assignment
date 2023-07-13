@@ -1,0 +1,11 @@
+loops
+
+#include<iostream>
+using name space
+int main()
+{
+int i
+for (i=0;   ;)
+{
+cout<<i<<" ";
+}
